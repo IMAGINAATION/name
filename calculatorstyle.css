@@ -50,5 +50,7 @@
 .calculator {
     width:355px;
     height:430px;
-    
+}
+body {
+    font-family: 'Barlow Semi Condensed', sans-serif;
 }
