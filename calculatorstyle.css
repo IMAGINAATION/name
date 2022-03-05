@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&display=swap');
+.numbers {
+    width: 75px;
+    height: 75px;
+    margin: 5px;
+    background: #C4C4C4;
+    font-size: 48px;
+}    
+.numbers:hover {
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.numbers:active {
+    position: relative;
+    top: 1px;
+}
+.znaki {
+    width: 75px;
+    height: 75px;
+    margin: 5px;
+    background: #8F8F8F;
+    font-size: 48px;
+}
+.znaki:hover {
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.znaki:active {
+    position: relative;
+    top: 1px;
+}
+.stirka {
+    width: 75px;
+    height: 75px;
+    margin: 5px;
+    margin-left: 35px;
+    background: #000000;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-size: 48px;
+}
+.okno {
+    width: 233px;
+    height: 75px;
+    display: inline-block;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    margin: 0px auto;
+}
+.calculator {
+    width:355px;
+    height:430px;
+    
+}
